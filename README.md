@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hadenpell
 - 👀 I’m interested in AI/ML/neuroscience
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... pelletier.ha@northeastern.edu
+- 🌱 I’m currently learning more about deep learning and time series
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ... pelletierhaden@gmail.com
