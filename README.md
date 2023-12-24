@@ -1,4 +1,4 @@
-### Hi, I’m Haden 👋 
+## Hi, I’m Haden 👋 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pelletierhaden) [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hadenpelletier/)
 
 I'm a passionate data scientist with 3 years of experience who strongly believes in leveraging data to make a positive impact on people and the world. 
