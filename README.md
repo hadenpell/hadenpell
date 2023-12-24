@@ -22,3 +22,6 @@ I currently work in energy, where I use Python and ML to ...
 * Finance - US Stock Market, Investing
 * Poetry
 * Technical writing
+
+## Follow my data science blog on Medium
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pelletierhaden)
