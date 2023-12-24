@@ -19,5 +19,6 @@ I currently work in energy, where I use Python and ML to ...
 
 ## 🙇‍♂️ Other interests
 * Neuroscience
+* Finance - US Stock Market, Investing
 * Poetry
 * Technical writing
