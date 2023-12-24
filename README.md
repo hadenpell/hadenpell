@@ -10,6 +10,7 @@ I currently work in energy, where I use Python and ML to ...
 ### 💻 Data science interests & focuses
 * Time series modeling
 * Anomaly detection
+* ML engineering
 * Deep learning
 
 ### 🧰 Tools
