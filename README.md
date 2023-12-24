@@ -1,5 +1,23 @@
-- 👋 Hi, I’m @hadenpell
-- 👀 I’m interested in AI/ML/neuroscience
-- 🌱 I’m currently learning more about deep learning and time series
-- 💞️ I’m looking to collaborate on ... anything
-- 📫 How to reach me ... pelletierhaden@gmail.com
+## Hi, I’m Haden 👋
+I'm a passionate data scientist with 3 years of experience who strongly believes in leveraging data to make a positive impact on people and the world. 
+I currently work in energy, where I use Python and ML to ...
+* Generate insights for commercial building engineers, managers, and other stakeholders regarding their building's efficiency
+* Explain various reasons behind building energy consumption and cost patterns
+* Provide recommendations for customers to reduce their energy usage and cost
+
+## 💻 Data science interests & focuses
+* Time series modeling
+* Anomaly detection
+* Deep learning
+
+## 🧰 Tools
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,gcp,docker,git,linux,fastapi,tensorflow)](https://skillicons.dev)
+
+## 🥇 Certifications
+* Tensorflow Developer Specialization (Coursera)
+* Statistics with Python Specialization (U Michigan, Coursera)
+
+## 🙇‍♂️ Other interests
+* Neuroscience
+* Poetry
+* Technical writing
