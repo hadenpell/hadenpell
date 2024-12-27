@@ -18,10 +18,12 @@ My most recent position was in the energy sector, where I used Python and ML to 
 
 ### 🥇 Certifications
 * Tensorflow Developer Specialization (Coursera)
+* Machine Learning Engineering for Production (MLOps) (Coursera)
 * Statistics with Python Specialization (U Michigan, Coursera)
 
 ### 🙇‍♂️ Other interests
-* Neuroscience
+* Neuroscience, Biology
+* Healthcare
 * Finance - US Stock Market, Investing
 * Poetry
 * Technical writing
