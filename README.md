@@ -1,5 +1,6 @@
 ## Hi, I’m Haden 👋 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pelletierhaden) [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hadenpelletier/)
+[![](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@churnagency)
 
 I'm a passionate data scientist with over 5 years of experience who strongly believes in leveraging data to make a positive impact on people and the world. Industries I've worked in:
 * Energy sector, analyzing and forecasting energy usage for large commercial buildings
